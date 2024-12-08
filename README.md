@@ -1,2 +1,13 @@
-It's a page i made to learn basic html and css.
-The creator of this page is at here:  https://youtu.be/WuWbunhmDsE?si=dycr7pwthsUgSmm8
+## 專案介紹
+### 本專案展示了一個完整的前後端整合架構，包含以下特點：
+
+* 多伺服器架構：利用 Docker Compose 部署三個獨立的 server.js 伺服器，模擬高併發環境下的多實例應用部署。
+* 靜態網站設計：採用 HTML 和 CSS 製作具有良好使用者體驗的靜態網站，展示網站前端設計能力。
+* 負載平衡：通過 Nginx 作為反向代理和負載平衡器，分配用戶請求至多個伺服器，提高系統的可用性和效能。
+#### 該專案的目的是展示如何使用容器化技術來構建可擴展且高效的應用架構，並藉此提升部署效率與可維護性。
+
+
+
+
+
+
